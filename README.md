@@ -102,7 +102,7 @@ L_total = λ_pix · L1(SR, HR) + λ_perc · L_perc(VGG(SR), VGG(HR)) + λ_freq �
 
 ## Colab Notebook
 
-https://drive.google.com/file/d/1LKll7TxdNedntyk89ZewOZ8qe5AhU6cG/view
+https://colab.research.google.com/drive/1LKll7TxdNedntyk89ZewOZ8qe5AhU6cG
 
 ---
 
